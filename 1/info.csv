@@ -1,0 +1,25 @@
+name	type	size	parent
+1	Directory	12464	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\1
+2	Directory	4179	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\2
+3	Directory	1574	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\3
+4	Directory	2089	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\4
+5	Directory	2402063	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\5
+11	Directory	0	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\1
+dz8_1.py	File	2769	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\1
+info.bin	File	2609	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\1
+info.csv	File	2365	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\1
+info.join	File	4721	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\1
+all_employees.json	File	2148	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\2
+dz8_2.py	File	1355	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\2
+employees1.json	File	277	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\2
+employees2.json	File	260	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\2
+employees3.json	File	139	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\2
+dz8_3.py	File	1218	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\3
+products.csv	File	75	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\3
+products.json	File	281	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\3
+dz8_4.py	File	1894	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\4
+sales.csv	File	106	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\4
+total_sales.csv	File	89	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\4
+books.csv	File	1559646	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\5
+books.json	File	840873	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\5
+dz8_5.py	File	1544	D:\Anastasi\geekBrains\Погружение в Python 07.10.2024\Sem8\DZ8\5

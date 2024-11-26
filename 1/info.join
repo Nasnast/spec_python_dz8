@@ -1,0 +1,146 @@
+[
+    {
+        "name": "1",
+        "type": "Directory",
+        "size": 12464,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\1"
+    },
+    {
+        "name": "2",
+        "type": "Directory",
+        "size": 4179,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\2"
+    },
+    {
+        "name": "3",
+        "type": "Directory",
+        "size": 1574,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\3"
+    },
+    {
+        "name": "4",
+        "type": "Directory",
+        "size": 2089,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\4"
+    },
+    {
+        "name": "5",
+        "type": "Directory",
+        "size": 2402063,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\5"
+    },
+    {
+        "name": "11",
+        "type": "Directory",
+        "size": 0,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\1"
+    },
+    {
+        "name": "dz8_1.py",
+        "type": "File",
+        "size": 2769,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\1"
+    },
+    {
+        "name": "info.bin",
+        "type": "File",
+        "size": 2609,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\1"
+    },
+    {
+        "name": "info.csv",
+        "type": "File",
+        "size": 2365,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\1"
+    },
+    {
+        "name": "info.join",
+        "type": "File",
+        "size": 4721,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\1"
+    },
+    {
+        "name": "all_employees.json",
+        "type": "File",
+        "size": 2148,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\2"
+    },
+    {
+        "name": "dz8_2.py",
+        "type": "File",
+        "size": 1355,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\2"
+    },
+    {
+        "name": "employees1.json",
+        "type": "File",
+        "size": 277,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\2"
+    },
+    {
+        "name": "employees2.json",
+        "type": "File",
+        "size": 260,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\2"
+    },
+    {
+        "name": "employees3.json",
+        "type": "File",
+        "size": 139,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\2"
+    },
+    {
+        "name": "dz8_3.py",
+        "type": "File",
+        "size": 1218,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\3"
+    },
+    {
+        "name": "products.csv",
+        "type": "File",
+        "size": 75,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\3"
+    },
+    {
+        "name": "products.json",
+        "type": "File",
+        "size": 281,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\3"
+    },
+    {
+        "name": "dz8_4.py",
+        "type": "File",
+        "size": 1894,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\4"
+    },
+    {
+        "name": "sales.csv",
+        "type": "File",
+        "size": 106,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\4"
+    },
+    {
+        "name": "total_sales.csv",
+        "type": "File",
+        "size": 89,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\4"
+    },
+    {
+        "name": "books.csv",
+        "type": "File",
+        "size": 1559646,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\5"
+    },
+    {
+        "name": "books.json",
+        "type": "File",
+        "size": 840873,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\5"
+    },
+    {
+        "name": "dz8_5.py",
+        "type": "File",
+        "size": 1544,
+        "parent": "D:\\Anastasi\\geekBrains\\Погружение в Python 07.10.2024\\Sem8\\DZ8\\5"
+    }
+]
